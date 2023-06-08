@@ -1,3 +1,6 @@
+![banner](https://github.com/CarbonTracker/.github/assets/99221221/06bdd8e8-e072-41d1-bba8-f4f8d0742060)
+
+
 # Introduction
 
 GreenTrace is an imperative project that champions the protection of our environment and empowers individuals to make a tangible impact on the planet. 🌍 Through our revolutionary combination of IoT, AI, and blockchain technologies, we address critical challenges in the carbon credit market, providing transparency, trust, and accountability to climate action projects and individuals seeking to offset their carbon footprint. 🌱💪
