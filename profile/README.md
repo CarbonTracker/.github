@@ -1,5 +1,6 @@
 ![banner](https://github.com/CarbonTracker/.github/assets/99221221/06bdd8e8-e072-41d1-bba8-f4f8d0742060)
 
+Pitch and demo: [Video](https://www.youtube.com/watch?v=KP-6Q8dYUt0)
 
 # Introduction
 
